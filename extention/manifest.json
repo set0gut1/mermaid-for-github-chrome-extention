@@ -1,0 +1,23 @@
+{
+  "manifest_version": 2,
+  "name": "Mermaid for GitHub",
+  "version": "1.0.0",
+  "description": "mermeid.js Chrome extention for GitHub and Gist",
+  "homepage_url": "https://github.com/set0gut1/mermaid-for-github",
+  "icons": {
+    "128": "icon.png"
+  },
+  "content_scripts": [
+    {
+      "run_at": "document_start",
+      "matches": [
+        "https://github.com/*",
+        "https://gist.github.com/*"
+      ],
+      "js": [
+        "mermaid.js",
+        "initialize.js"
+      ]
+    }
+  ]
+}
