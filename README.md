@@ -1,4 +1,4 @@
-# mermaid-chrome-extention-for-github
+# mermaid-for-github-chrome-extention
 
 > mermaid version: 8.0.0-rc.8
 
