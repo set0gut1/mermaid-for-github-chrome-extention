@@ -1,9 +1,9 @@
 # mermaid-for-github-chrome-extention
 
-> mermaid version: 8.0.0-rc.8  
+> mermaid version: 8.0.0-rc.8
 > MD5 (mermaid.js) = afd22ae60b87ad03fab277554f0f3d25
 
-This is Chrome extention which apply [mermeid.js](https://github.com/knsv/mermaid) to GitHub and Gist.
+This is Chrome extention which apply [mermaid.js](https://github.com/knsv/mermaid) to GitHub and Gist.
 
 | before | after |
 | ---- | ---- |
